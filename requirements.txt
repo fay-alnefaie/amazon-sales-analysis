@@ -1,0 +1,13 @@
+# Data Manipulation
+pandas
+
+# Database Connection & ORM
+sqlalchemy
+
+# Visualizations 
+matplotlib
+seaborn
+
+# Jupyter Notebook support
+ipykernel
+## For data cleaning and transformation
